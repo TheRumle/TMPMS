@@ -26,6 +26,9 @@
         <None Update="Tofms\Json\Systems\Valid\complex.json">
           <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </None>
+        <None Update="Tofms\Json\Systems\Valid\complex_max.json">
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
     </ItemGroup>
 
 
